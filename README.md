@@ -8,7 +8,7 @@ While in the pitchGPU directory, run:
 ```
 ./pitch melody.wav
 ```
-The output would then be the normal runtime (in milliseconds) followed by a series of frequencies, produced by the detection, of melody.wav:
+The output would then be the normal runtime (in milliseconds) followed by a series of frequencies (in Hertz), produced by the detection, of melody.wav:
 ```
 Calculating pitches normally... Normal: 6965.701000 ms
 Estimated frequencies of melody.wav by NORMAL:
